@@ -12,5 +12,4 @@ function hitungTotalBelanja($harga_barang, $jumlah_pembelian, $persentase_diskon
 
 echo "Total yang harus dibayar: Rp " . hitungTotalBelanja(50000, 5, 10);
 
-
 ?>
