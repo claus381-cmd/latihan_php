@@ -7,7 +7,7 @@ $umur = 20;
 $member = true;
 
 if ($umur >= 17 && $member == true) {
-    $total_harga = HARGA_NORMAL - HARGA_DISKON;
+    $total_   harga = HARGA_NORMAL - HARGA_DISKON;
     echo "Silahkan Masuk Anda Mendapatkan Dikon Member! <br>";
     echo "Total harga tiket:" . $total_harga;
 }elseif($umur >= 17 && $member == false) {
